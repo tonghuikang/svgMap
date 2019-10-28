@@ -208,7 +208,6 @@ var svgMapDataGPD = {
     UA: {gdp: 2583, change: 17.46, gdpAdjusted: 8713, changeAdjusted: 3.02},
     AE: {gdp: 37226, change: 5.21, gdpAdjusted: 67741, changeAdjusted: -0.86},
     GB: {gdp: 39735, change: -1.96, gdpAdjusted: 44117, changeAdjusted: 1.21},
-    US: {gdp: 59501, change: 3.37, gdpAdjusted: 59501, changeAdjusted: 1.48},
     UY: {gdp: 16722, change: 11.02, gdpAdjusted: 22371, changeAdjusted: 2.74},
     UZ: {gdp: 1491, change: -28.81, gdpAdjusted: 6929, changeAdjusted: 3.89},
     VU: {gdp: 3094, change: 6.51, gdpAdjusted: 2739, changeAdjusted: 2.33},
